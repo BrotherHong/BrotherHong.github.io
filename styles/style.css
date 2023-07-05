@@ -1,0 +1,29 @@
+body {
+    background-image: url(../images/background.jpg);
+    margin: 0px;
+    font-family: 'Agdasima', sans-serif;
+    user-select: none;  
+}
+
+#main_title {
+    margin: 0px;
+    padding: 20px;
+    background: rgb(2,0,36);
+    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(12,199,178,1) 26%, rgba(121,9,82,1) 65%, rgba(0,212,255,1) 100%); 
+    color: lightgreen;
+    text-align: center;
+    font-size: 70px;
+    border-bottom: solid 2px black;
+}
+
+#click_img {
+    margin: auto;
+    display: block;
+}
+
+#counter {
+    color: red;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
